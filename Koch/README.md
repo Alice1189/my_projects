@@ -1,3 +1,3 @@
 Программа рисует снежинку Коха с глубиной, введённой с клавиатуры.  
 
-![](https://yadi.sk/i/T3hxlcyOsq45hQ)
+![](https://s170sas.storage.yandex.net/rdisk/4af63fe522ef49d41a5db130df31192088d58694855c39bd01752495f232e810/5ddc4064/z__1m-ui2agx_cVrrRxfnR2No209K4P2am1beSn3nrS7bGU3pRijEQI2Gnb1ME7X-cYnvfGZu1I0NDl7VE7_GA==?uid=124475869&filename=Koch.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=124475869&fsize=26448&hid=de5c252be131cba8e35e603bc74cbfcc&media_type=image&tknv=v2&etag=61b42f4e28991af6d43c9a264ed3917d&rtoken=plHA978J5IeC&force_default=yes&ycrid=na-7896bba30961de75bfeffaf73cec0bea-downloader9f&ts=598320585e100&s=b92bd8794ea3769edc4f93485cf2e975ab1013eb62fda51e9a65cb8a61c3940e&pb=U2FsdGVkX19Icrn_G2lWHFH74qiHPPVPOBKjEoAXSpY1Gzej_IP-YlPw5YHu7rI3d_CXrXxeL5pzSMyQ1elRPRwqt3MIGgwqKEDvTCMhyWA)
