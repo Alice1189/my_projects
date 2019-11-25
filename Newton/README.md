@@ -1,5 +1,5 @@
 Программа строит фрактальное распределение Ньютона для полинома
-![](polinom.png),
+![](https://yadi.sk/i/zZWcgUhnmlVOCw),
 вшитого в программу.  
 
-![](Newton.png)
+![](https://yadi.sk/i/HfkgGJcP2-cpBg)
