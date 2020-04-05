@@ -5,7 +5,7 @@
 Снежинка Коха глубины, введённой с клавиатуры.  
 
 **Newton**  
-Фрактальное распределение Ньютона для полинома ![polinom](https://render.githubusercontent.com/render/math?math=x^{6} - 1 = 0)
+Фрактальное распределение Ньютона для полинома ![polinom](https://render.githubusercontent.com/render/math?math=x^{6}%20-%201%20=%200)
 
 **ipynb with base64**  
 Для корректного отображения картинок, вставленных в ячейки markdown тетрадок Jupyter Notebook, при экспорте в html.  
