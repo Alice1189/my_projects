@@ -21,4 +21,5 @@
 </commentinfo>
 ```
 получится такой xlsx-файл:
+
 ![](../images/sxpx.png)
